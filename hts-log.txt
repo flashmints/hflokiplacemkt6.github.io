@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Jul 2022 20:15:29 at https://demos.codexcoder.com/labartisan/html/nft/enftomark/index-3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.codexcoder.com/labartisan/html/nft/enftomark/index-3.html -O1 "C:\My Web Sites\floki place" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:17:14	Error: 	"Not Found" (404) at link https://demos.codexcoder.com/labartisan/html/nft/enftomark/nft-single.html (from https://demos.codexcoder.com/labartisan/html/nft/enftomark/activity.html)
+20:17:14	Error: 	"Not Found" (404) at link https://demos.codexcoder.com/labartisan/html/nft/enftomark/assets/images/nft-item/07.jp (from https://demos.codexcoder.com/labartisan/html/nft/enftomark/author.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 178 links scanned, 175 files written (13587985 bytes overall) [11448088 bytes received at 109029 bytes/sec], 2542204 bytes transferred using HTTP compression in 44 files, ratio 12%, 35.6 requests per connection
+(2 errors, 0 warnings, 0 messages)
